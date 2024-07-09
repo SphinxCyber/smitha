@@ -1,0 +1,7 @@
+[05/02/2024 02:19:49] [d(0)] core: Created user based module store
+[05/02/2024 02:19:50] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[05/02/2024 02:19:50] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[05/02/2024 02:19:50] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[05/02/2024 02:19:50] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[05/02/2024 02:19:50] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/02/2024 02:20:16] [d(0)] core: HistoryManager.pop_context name: :msfconsole
